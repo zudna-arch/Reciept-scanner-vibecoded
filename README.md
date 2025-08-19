@@ -1,1 +1,2 @@
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/zudna-arch/Reciept-scanner-vibecoded?utm_source=oss&utm_medium=github&utm_campaign=zudna-arch%2FReciept-scanner-vibecoded&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+I have no idea what I am doing, I just want my tax to be easier and can't find an app that does exactly what I want.
